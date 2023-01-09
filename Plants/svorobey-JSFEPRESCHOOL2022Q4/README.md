@@ -1,7 +1,7 @@
 1. Вёрстка валидная - 0
 	*Присутствует 7 ошибок и 1 предупреждение. **[Валидация](https://validator.w3.org/nu/?doc=https%3A%2F%2Frolling-scopes-school.github.io%2Fdianatip-JSFEPRESCHOOL2022Q4%2Fplants%2F)**
 2. Вёрстка семантическая - 18.5
-	* <header>, <main>, <footer> - 3
+	* &lt;header&rt;, &lt;main&rt;, &lt;footer&rt; - 3
 	* пять элементов <section> (по количеству секций) - 3
 	* только один заголовок <h1> - 3
 	* четыре заголовка <h2>  - 1.5. **Не хватает h2 в секции contacts**
