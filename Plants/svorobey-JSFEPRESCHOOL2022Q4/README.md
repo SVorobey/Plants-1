@@ -1,5 +1,5 @@
 1. Вёрстка валидная - 0
-	*Присутствует 7 ошибок и 1 предупреждение. **[Валидация](https://validator.w3.org/nu/?doc=https%3A%2F%2Frolling-scopes-school.github.io%2Fdianatip-JSFEPRESCHOOL2022Q4%2Fplants%2F)**
+	* Присутствует 7 ошибок и 1 предупреждение. **_[Валидация](https://validator.w3.org/nu/?doc=https%3A%2F%2Frolling-scopes-school.github.io%2Fdianatip-JSFEPRESCHOOL2022Q4%2Fplants%2F)_**
 2. Вёрстка семантическая - 18.5
 	* &lt;header>, &lt;main>, &lt;footer> - 3
 	* пять элементов &lt;section> (по количеству секций) - 3
